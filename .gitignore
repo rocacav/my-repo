@@ -1,0 +1,4 @@
+.env
+debut/*
+build/*
+node_modules/*
