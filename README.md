@@ -1,15 +1,3 @@
-# My Repo
+# Uninorte
 
-##
-##
-
-*
-*
-*
-
-...
-
-const a = b;
-...
-
-
+## 01 - Sesión Git
